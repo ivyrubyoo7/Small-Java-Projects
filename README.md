@@ -54,7 +54,7 @@ Bank/
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/ivyrubyoo7/Small-Java-Projects/tree/main/Bank.git
    cd Bank
 
 
@@ -112,5 +112,5 @@ TaskManager/
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/ivyrubyoo7/Small-Java-Projects/tree/main/TaskManager.git
    cd TaskManager
