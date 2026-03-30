@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class BankUI {
 
-    Account account = new Account("Ricky", 1000);
+    Account account = new Account("Hehe", 1000);
     BankService service = new BankService();
 
     public BankUI() {
